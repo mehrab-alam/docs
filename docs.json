@@ -123,5 +123,14 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+   "scripts": [
+  {
+    "src": "https://torqbit-dev.b-cdn.net/static/js/chat-embed.dev.js",
+    "defer": true,
+    "data-agentId": "cme2shyaa0013pa6egpuvufkv",
+    "data-position": "bottom-right"
   }
+]
+ 
 }
