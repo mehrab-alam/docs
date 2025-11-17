@@ -1,11 +1,10 @@
 (function () {
   const script = document.createElement("script");
-  script.src = "https://torqbit-dev.b-cdn.net/static/js/chat-embed.dev.js?v=" + Date.now();
+  script.src = "https://cdn.torqbit.com/static/js/chat-embed.dev.js?v=" + Date.now();
   script.defer = true;
-  
 
   // Preserve exact attribute casing
-  script.setAttribute("data-agentId", "cme2shyaa0013pa6egpuvufkv");
+  script.setAttribute("data-agentId", "cmi31w3kz003yivhum3dyc94x");
   script.setAttribute("data-position", "bottom-right");
 
   document.head.appendChild(script);
