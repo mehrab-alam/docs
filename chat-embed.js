@@ -6,6 +6,5 @@
   // Preserve exact attribute casing
   script.setAttribute("data-agentId", "cmi31w3kz003yivhum3dyc94x");
   script.setAttribute("data-position", "bottom-right");
-
   document.head.appendChild(script);
 })();
